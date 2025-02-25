@@ -7,12 +7,12 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		// twitter: "https://twitter.com/",
+		github: "https://github.com/amansh-tty",
+		linkedin: "https://www.linkedin.com/in/aman-shetty-8a0565221/",
+		// instagram: "https://instagram.com/",
+		// stackoverflow: "https://stackoverflow.com/",
+		// facebook: "https://facebook.com/",
 	},
 
 	homepage: {
